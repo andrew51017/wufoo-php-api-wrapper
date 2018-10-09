@@ -1,5 +1,8 @@
 Wufoo PHP API Wrapper
 =============
+
+Modified to fix an issue with File Upload as per [PR10](https://github.com/wufoo/Wufoo-PHP-API-Wrapper/pull/10/commits/094d64436cee405739f5b39bc28f745afed65eb3).
+
 [![Latest Stable Version](https://poser.pugx.org/adamlc/wufoo-php-api-wrapper/v/stable.png)](https://packagist.org/packages/adamlc/wufoo-php-api-wrapper) [![Total Downloads](https://poser.pugx.org/adamlc/wufoo-php-api-wrapper/downloads.png)](https://packagist.org/packages/adamlc/wufoo-php-api-wrapper) [![Latest Unstable Version](https://poser.pugx.org/adamlc/wufoo-php-api-wrapper/v/unstable.png)](https://packagist.org/packages/adamlc/wufoo-php-api-wrapper) [![License](https://poser.pugx.org/adamlc/wufoo-php-api-wrapper/license.png)](https://packagist.org/packages/adamlc/wufoo-php-api-wrapper)
 
 This is a fork of the original Wufoo PHP library. This fork has tried to make the library more modern by using proper name spaces and exceptions. This class follows PSR2 and PSR4.
